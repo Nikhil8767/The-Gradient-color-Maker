@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right,rgb(92,145,229),
+    rgb(152,63,198))
+
+}
+
+#btn1{
+    background-color: #051937;
+    color: white;
+    padding: 20px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 20rem;
+    margin-left: 42rem;
+}
+#btn2{
+    background-color: #008793;
+    color: white;
+    padding: 20px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    margin-left: 3rem;
+    
+}
+h2{
+    margin-top: 5rem;
+    margin-left: 40rem; 
+    font-size: 2.5rem;
+}
+.copycode{
+ text-align: center;
+ padding: 20px;
+ box-shadow: 10px 10x ;
+ font-size: 2rem;
+
+}
